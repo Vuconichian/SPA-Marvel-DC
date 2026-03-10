@@ -1,0 +1,183 @@
+[
+{
+"nombre":"Scarlet Witch",
+"nombreReal":"Wanda Maximoff",
+"anioAparicion":1964,
+"casa":"Marvel",
+"biografia":"Una poderosa mutante capaz de manipular la realidad y la energía del caos.",
+"equipamiento":[],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/9/9a/Scarlet_Witch.jpg"]
+},
+{
+"nombre":"Vision",
+"nombreReal":"Vision",
+"anioAparicion":1968,
+"casa":"Marvel",
+"biografia":"Un androide creado por Ultron que se convierte en miembro de los Avengers.",
+"equipamiento":["gema de la mente"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/4/4f/Vision_%28Marvel_Comics%29.png"]
+},
+{
+"nombre":"Ant-Man",
+"nombreReal":"Scott Lang",
+"anioAparicion":1979,
+"casa":"Marvel",
+"biografia":"Un ladrón reformado que utiliza un traje que le permite cambiar de tamaño.",
+"equipamiento":["traje Ant-Man"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/7/75/Ant-Man_%28Scott_Lang%29.png"]
+},
+{
+"nombre":"Hawkeye",
+"nombreReal":"Clint Barton",
+"anioAparicion":1964,
+"casa":"Marvel",
+"biografia":"Un arquero excepcional que lucha junto a los Avengers.",
+"equipamiento":["arco","flechas especiales"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clint_Barton%29.png"]
+},
+{
+"nombre":"Thanos",
+"nombreReal":"Thanos",
+"anioAparicion":1973,
+"casa":"Marvel",
+"biografia":"Un titán obsesionado con el equilibrio del universo.",
+"equipamiento":["guantelete del infinito"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/c/c4/Thanos_Infinity_4.png"]
+},
+{
+"nombre":"Loki",
+"nombreReal":"Loki Laufeyson",
+"anioAparicion":1962,
+"casa":"Marvel",
+"biografia":"El dios del engaño y hermano adoptivo de Thor.",
+"equipamiento":["magia","cetro"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/6/6f/Loki_%28Marvel_Comics%29.png"]
+},
+{
+"nombre":"Magneto",
+"nombreReal":"Max Eisenhardt",
+"anioAparicion":1963,
+"casa":"Marvel",
+"biografia":"Un poderoso mutante capaz de controlar el magnetismo.",
+"equipamiento":["casco magnético"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/3/3a/Magneto_%28Marvel_Comics_character%29.jpg"]
+},
+{
+"nombre":"Storm",
+"nombreReal":"Ororo Munroe",
+"anioAparicion":1975,
+"casa":"Marvel",
+"biografia":"Una mutante que puede controlar el clima.",
+"equipamiento":[],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/5/58/Storm_%28Marvel_Comics%29.png"]
+},
+{
+"nombre":"Cyclops",
+"nombreReal":"Scott Summers",
+"anioAparicion":1963,
+"casa":"Marvel",
+"biografia":"Líder de los X-Men con la habilidad de disparar rayos ópticos.",
+"equipamiento":["visor de cuarzo rubí"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/b/b2/Cyclops_%28Scott_Summers%29.png"]
+},
+{
+"nombre":"Ultron",
+"nombreReal":"Ultron",
+"anioAparicion":1968,
+"casa":"Marvel",
+"biografia":"Una inteligencia artificial creada por Hank Pym que se vuelve contra la humanidad.",
+"equipamiento":["cuerpo robótico"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/4/4f/Ultron.png"]
+},
+
+{
+"nombre":"Shazam",
+"nombreReal":"Billy Batson",
+"anioAparicion":1939,
+"casa":"DC",
+"biografia":"Un joven que obtiene poderes mágicos al decir la palabra Shazam.",
+"equipamiento":["poderes mágicos"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/7/7a/Shazam_%28Billy_Batson%29.png"]
+},
+{
+"nombre":"Green Arrow",
+"nombreReal":"Oliver Queen",
+"anioAparicion":1941,
+"casa":"DC",
+"biografia":"Un arquero experto que combate el crimen con flechas especiales.",
+"equipamiento":["arco","flechas especiales"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/7/7d/Green_Arrow_%28Oliver_Queen%29.png"]
+},
+{
+"nombre":"Nightwing",
+"nombreReal":"Dick Grayson",
+"anioAparicion":1984,
+"casa":"DC",
+"biografia":"El antiguo Robin que se convierte en el héroe Nightwing.",
+"equipamiento":["bastones escrima"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/9/9a/Nightwing_%28Dick_Grayson%29.png"]
+},
+{
+"nombre":"Robin",
+"nombreReal":"Damian Wayne",
+"anioAparicion":2006,
+"casa":"DC",
+"biografia":"El hijo de Batman entrenado para ser su compañero.",
+"equipamiento":["gadgets","espada"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/2/2c/Robin_%28Damian_Wayne%29.png"]
+},
+{
+"nombre":"Catwoman",
+"nombreReal":"Selina Kyle",
+"anioAparicion":1940,
+"casa":"DC",
+"biografia":"Una ladrona experta con habilidades acrobáticas.",
+"equipamiento":["látigo"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/1/1f/Catwoman_%28Selina_Kyle%29.png"]
+},
+{
+"nombre":"Darkseid",
+"nombreReal":"Darkseid",
+"anioAparicion":1970,
+"casa":"DC",
+"biografia":"Un tirano intergaláctico que busca dominar el universo.",
+"equipamiento":["rayos omega"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/5/5f/Darkseid.png"]
+},
+{
+"nombre":"Deathstroke",
+"nombreReal":"Slade Wilson",
+"anioAparicion":1980,
+"casa":"DC",
+"biografia":"Un mercenario con habilidades físicas mejoradas.",
+"equipamiento":["espadas","armas"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/3/3c/Deathstroke_%28Slade_Wilson%29.png"]
+},
+{
+"nombre":"Riddler",
+"nombreReal":"Edward Nigma",
+"anioAparicion":1948,
+"casa":"DC",
+"biografia":"Un criminal obsesionado con los acertijos.",
+"equipamiento":["bastón"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/7/7f/Riddler.png"]
+},
+{
+"nombre":"Bane",
+"nombreReal":"Bane",
+"anioAparicion":1993,
+"casa":"DC",
+"biografia":"Un criminal extremadamente fuerte gracias a la droga Venom.",
+"equipamiento":["suero Venom"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/4/4d/Bane_%28DC_Comics%29.png"]
+},
+{
+"nombre":"Poison Ivy",
+"nombreReal":"Pamela Isley",
+"anioAparicion":1966,
+"casa":"DC",
+"biografia":"Una eco-terrorista con control sobre las plantas.",
+"equipamiento":["toxinas vegetales"],
+"imagenes":["https://upload.wikimedia.org/wikipedia/en/0/0c/Poison_Ivy_%28Pamela_Isley%29.png"]
+}
+]
